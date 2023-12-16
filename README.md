@@ -52,30 +52,37 @@
 ## 회귀 분석
 ### 거래 유형: 매매
 ![image](https://github.com/hoorangyee/Stat_for_DS/assets/119475060/1d888973-340c-4264-a13b-ba45c500f0cc)
+
 coef: [[24.21015714]], intercept: [-47917.00715251]
 
 ### 거래 유형: 전세
 ![image](https://github.com/hoorangyee/Stat_for_DS/assets/119475060/50d2402d-df2f-4735-ba76-0771ecb12cb6)
+
 coef: [[23.26837929]], intercept: [-46147.83108728]
 
 ### 거래 유형: 월세
 ![image](https://github.com/hoorangyee/Stat_for_DS/assets/119475060/f264a504-4b7b-44df-bfe1-0ab8ec320f63)
+
 coef: [[0.09015274]], intercept: [-178.80465679]
 
 ![image](https://github.com/hoorangyee/Stat_for_DS/assets/119475060/940ae3a0-3ef5-4390-a705-081b932765eb)
+
 coef: [[0.03115278]], intercept: [0.7650987]
 
 ## 스플라인 분석
 ### 거래 유형: 매매
 ![image](https://github.com/hoorangyee/Stat_for_DS/assets/119475060/ee96599d-df18-4df7-afab-2317d2ceffea)
+
 min or max point: [161.12222222 331.7]
 
 ### 거래 유형: 전세
 ![image](https://github.com/hoorangyee/Stat_for_DS/assets/119475060/809ffb73-8907-40f7-b22d-f0d4afac8e80)
+
 min or max point: [141.18787879 262.20606061 383.22424242]
 
 ### 거래 유형: 월세
 ![image](https://github.com/hoorangyee/Stat_for_DS/assets/119475060/e5ce5755-a4bf-4ddb-bb98-f5419dda1190)
+
 mix or max point: [126.50707071 199.49191919 340.5959596 ]
 
 ## 결론 및 토의
